@@ -1,4 +1,4 @@
-#gelaisi_wifi is a objective-c project
+#gelaisi_wifi is an Objective-C project
 <hr>
 ###The founction of the project:
 <hr>
@@ -10,8 +10,8 @@
 
 ###Demo Image:
 <hr>
-<img src="images/demo1.jpg" width = "240px" style="width:240px !important;">
-<img src="images/demo2.jpg" width = "240px" style="width:240px !important;">
+<img src="images/demo1.jpg" width="240px">
+<img src="images/demo2.jpg" width="240px">
 
 ##License
 <hr>
