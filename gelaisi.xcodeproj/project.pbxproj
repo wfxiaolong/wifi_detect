@@ -564,7 +564,7 @@
 					"$(PROJECT_DIR)/gelaisi/UMSocial_Sdk_4.2.3/TencentOpenAPI",
 					"$(PROJECT_DIR)/gelaisi/UMSocial_Sdk_4.2.3/Wechat",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.gelaisi.hotwater;
+				PRODUCT_BUNDLE_IDENTIFIER = github.xiaoda.wifi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -592,7 +592,7 @@
 					"$(PROJECT_DIR)/gelaisi/UMSocial_Sdk_4.2.3/TencentOpenAPI",
 					"$(PROJECT_DIR)/gelaisi/UMSocial_Sdk_4.2.3/Wechat",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.gelaisi.hotwater;
+				PRODUCT_BUNDLE_IDENTIFIER = github.xiaoda.wifi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

@@ -10,8 +10,8 @@
 
 ###Demo Image:
 <hr>
-<img src="images/demo1.jpg" style="width:240px;">
-<img src="images/demo2.jpg" style="width:240px;">
+<img src="images/demo1.jpg" style="width:240px !important;">
+<img src="images/demo2.jpg" style="width:240px !important;">
 
 ##License
 <hr>
