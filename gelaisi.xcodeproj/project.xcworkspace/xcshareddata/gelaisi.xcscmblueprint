@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EC14581288902B3A21E4FEB7460B1CB910456487",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E3206071DD5FDC8082B70256486EF4370A800545" : 0,
+    "EC14581288902B3A21E4FEB7460B1CB910456487" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DD76182A-4DC0-4ED9-B695-E3DFE80DAF12",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E3206071DD5FDC8082B70256486EF4370A800545" : "gelaisi",
+    "EC14581288902B3A21E4FEB7460B1CB910456487" : "wifi_detect\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "gelaisi",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "gelaisi.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/xlong\/gelaisi.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E3206071DD5FDC8082B70256486EF4370A800545"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wfxiaolong\/wifi_detect.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EC14581288902B3A21E4FEB7460B1CB910456487"
+    }
+  ]
+}
