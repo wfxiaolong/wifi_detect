@@ -20,8 +20,3 @@ Gelaisi is open source and covered by a standard 2-clause BSD license. See the L
 
 Gelaisi is Free Software licensed under the GNU General Public License.
 
-##Contact me
-<hr>
-* tel:15913159968
-* email:542136758@qq.com
-* name:晓龙
